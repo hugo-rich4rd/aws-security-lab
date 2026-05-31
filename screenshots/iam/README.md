@@ -11,7 +11,7 @@
 ## Evidências
 
 ### Criação de usuário
-![Criação de usuário](create-user.png)
+![Criação de usuário](https://github.com/hugo-rich4rd/aws-security-lab/commit/8c7e8b17fac38c1a9e156d548fd46022220f20d2)
 
 ### Criação de grupo
 ![Criação de grupo](create-group.png)
