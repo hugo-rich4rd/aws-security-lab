@@ -17,4 +17,4 @@
 ![Criação de grupo](https://github.com/hugo-rich4rd/aws-security-lab/commit/7563c7287a264499738ede3a9d68834d5fee3167)
 
 ### Associação ao grupo
-![Usuário no grupo](user-in-group-01.png)
+![Usuário no grupo](https://github.com/hugo-rich4rd/aws-security-lab/commit/ede1350e615f60dc5a2763e00988ae3542cbce3f)
